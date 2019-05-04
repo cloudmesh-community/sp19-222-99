@@ -1,0 +1,7 @@
+pandas
+sklearn
+matplotlib
+flask
+connexion[swagger-ui]
+requests
+numpy
